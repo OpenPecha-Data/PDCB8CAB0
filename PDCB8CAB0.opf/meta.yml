@@ -25,3 +25,8 @@ source_metadata:
       parent: Practices
 created_at: '2022-03-01T02:21:09.311752'
 last_modified_at: '2022-03-01T02:21:09.311754'
+statistics:
+  total_words: 1588
+  total_non_words: 141
+quality:
+  non_words_ratio: 0.09
